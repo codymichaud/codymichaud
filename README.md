@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
-- 🔭 I’m currently working on an Employee Directory using React.Js.
-- 🌱 I’m currently learning React.Js in a Full Stack Bootcamp at University of Washington.
+- 🔭 I’m currently working on a Google Books React Search.
+- 🌱 I’m currently enrolled in a Full Stack Bootcamp at University of Washington.
 - 📫 How to reach me: cody.r.michaud@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codymichaud&theme=algolia&show_icons=true&count_private=true)
