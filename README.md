@@ -1,7 +1,8 @@
 ### Hey there! 👋
 
-- 🔭 I’m currently working on a React Portfolio.
+- 🔭 I’m currently working on a Hockey League Generator.
 - 🌱 I’m a graduate of the Full Stack Bootcamp at University of Washington.
+- 🌱 I’m currently a Junior Web Developer for Cheeky Scientist.
 - 📫 How to reach me: cody.r.michaud@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codymichaud&theme=algolia&show_icons=true&count_private=true)
