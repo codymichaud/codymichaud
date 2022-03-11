@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Lifestyle Blog and Dev Company website.
 - 🌱 I’m a graduate of the Full Stack Bootcamp at University of Washington.
-- 🌱 I’m currently a Junior Web Developer for Cheeky Scientist.
+- 🌱 I’m currently a Front End Developer with Ascendco Health.
 - 📫 How to reach me: cody.r.michaud@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codymichaud&theme=algolia&show_icons=true&count_private=true)
