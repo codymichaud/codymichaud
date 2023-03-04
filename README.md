@@ -9,6 +9,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codymichaud&layout=compact)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/codymichaud/codymichaud/blob/master/devcard.svg" width="400" alt="Cody Michauds Dev Card"/></a>
+
 <!--
 **codymichaud/codymichaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
