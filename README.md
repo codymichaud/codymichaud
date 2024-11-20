@@ -2,7 +2,7 @@
 
 - 🌱 I’m a graduate of the Full Stack Bootcamp at University of Washington.
 - 🌱 I’m currently a Front End Developer with Ascendco Health.
-- 🔭 I’m currently working on a website for a Twitch Streamer
+- 🔭 I’m currently working on a Pet Store website that allows you to view and add animals to your cart with 
 - 📫 How to reach me: cody.r.michaud@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codymichaud&theme=algolia&show_icons=true&count_private=true)
